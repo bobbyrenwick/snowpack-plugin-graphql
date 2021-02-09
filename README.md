@@ -1,6 +1,3 @@
-# snowpack-plugin-starter-template
+# snowpack-plugin-graphql
 
-Blank template to easily author a Snowpack template.
-
-- `npm run build`: Build the template
-- `npm run deploy`: Publish the template to npm using np
+This will allow you to use `.graphql` files with Snowpack, just like you can with `graphql-tag/loader` with webpack
